@@ -1,1 +1,1 @@
-print hello fanya
+print hello java
